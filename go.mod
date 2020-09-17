@@ -1,6 +1,6 @@
 module github.com/agile6v/argo/v2
 
-go 1.13
+go 1.14
 
 require (
 	bou.ke/staticfiles v0.0.0-20190225145250-827d7f6389cd
